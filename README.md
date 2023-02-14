@@ -1,4 +1,4 @@
-# 👋 백엔드 개발자 유세빈입니다.
+# 👋 Java 백엔드 개발자 유세빈입니다.
 
 <p>
   <a href="https://sebin-yu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00B8FC?style=flat-square&logo=Apache&logoColor=white"/></a>
