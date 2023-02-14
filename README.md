@@ -6,7 +6,7 @@
 
 
 ![SebinYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebinYu&show_icons=true&theme=radical)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebinYu)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebinYu) -->
 <!--
 **SebinYu/SebinYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
