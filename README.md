@@ -1,4 +1,4 @@
-# 꿈에서도 개발하는 유세빈입니다. 👋
+<!-- # 꿈에서도 개발하는 유세빈입니다. 👋
 <h4>📖현재 읽고 있는 책</h4>
   <ul>
     <li>자바 성능튜닝 이야기</li>
@@ -17,8 +17,8 @@
 <h4>Contact</h4>
 <p>
 <!--   <a href="https://sebin-yu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00B8FC?style=flat-square&logo=Apache&logoColor=white"/></a> -->
-  <a href="sebinyu72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sebinyu72@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+<!--   <a href="sebinyu72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sebinyu72@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p> -->
 
 
 <!-- ![SebinYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebinYu&show_icons=true&theme=dark)    -->
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
