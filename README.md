@@ -1,4 +1,4 @@
-# 👋 Java 백엔드: 유세빈
+<!-- # 👋 Java 백엔드: 유세빈
 
 <p>
   <a href="https://sebin-yu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00B8FC?style=flat-square&logo=Apache&logoColor=white"/></a>
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
